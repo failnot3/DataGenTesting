@@ -2649,11 +2649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\dotnet8\\dbtesting\\DataGeneratorApp\\DataGeneratorApp.csproj",
+      "projectUniqueName": "C:\\Development\\dotnet8\\dbtestingOne\\DataGenTesting\\DataGeneratorApp.csproj",
       "projectName": "DataGeneratorApp",
-      "projectPath": "C:\\Development\\dotnet8\\dbtesting\\DataGeneratorApp\\DataGeneratorApp.csproj",
+      "projectPath": "C:\\Development\\dotnet8\\dbtestingOne\\DataGenTesting\\DataGeneratorApp.csproj",
       "packagesPath": "C:\\Users\\failnot3\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\dotnet8\\dbtesting\\DataGeneratorApp\\obj\\",
+      "outputPath": "C:\\Development\\dotnet8\\dbtestingOne\\DataGenTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -35,7 +35,7 @@ namespace DataGenerator.Tests
                 stopwatch.Stop();
 
                 Console.WriteLine($"Data generation and insertion complete. Elapsed time: {stopwatch.Elapsed}");
-                // Assert.Pass("Data generation and insertion completed successfully.");
+                // Assert.Pass("Data generation and insertion completed successfully."); 
             }
         }
     }
@@ -44,7 +44,7 @@ namespace DataGenerator.Tests
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Starting tests...");
+            Console.WriteLine("Starting tests..."); // Comunicate start of tests
             var testSuite = new DataGeneratorTests();
             testSuite.EnsureDataGenerationAndInsertionCompletes();
             Console.WriteLine("All tests completed successfully.");
