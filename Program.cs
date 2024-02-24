@@ -16,7 +16,7 @@ namespace DataGenerator.Tests
             // Arrange
             var configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appsettings.json")
+                .AddJsonFile("appsettingsDem.json") // Ensure that you have the connection string setting set-up correctly
                 .Build();
 
             var connectionString = configuration.GetConnectionString("DefaultConnection");
